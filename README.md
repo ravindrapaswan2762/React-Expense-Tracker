@@ -1,4 +1,4 @@
-<img src="expense.png" alt="image" />
+<img src="expense1.png" alt="image" />
 
 # Expense Tracker
 
